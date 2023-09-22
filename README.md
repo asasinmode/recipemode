@@ -14,12 +14,9 @@ pnpm i
 
 # start dev server
 pnpm run dev
-
 # build
 pnpm run build
-
 # preview
-
 pnpm run preview
 ```
 
