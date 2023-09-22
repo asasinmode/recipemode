@@ -6,7 +6,7 @@ hero:
   text: "my cooking recipes"
   tagline: i needed a place to store them
   image:
-    src: /profile_icon.webp
+    src: /hero_image.webp
     alt: asasinmode profile icon
     
   actions:
