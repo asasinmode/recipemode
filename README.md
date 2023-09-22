@@ -4,7 +4,7 @@
 
 Deployed at [address]()
 
-# how to develop
+# develop
 
 After downloading/closing repository
 
