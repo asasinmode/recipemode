@@ -14,14 +14,42 @@ export default defineConfig({
 	],
 
 	themeConfig: {
+		logo: '/hero_image.webp',
 		nav: [
 			{ text: 'home', link: '/' },
-			{ text: 'recipes', link: '/cookies/' },
+			{ text: 'recipes', link: '/cookies/macarons' },
 		],
 
 		socialLinks: [
 			{ icon: 'github', link: 'https://github.com/asasinmode/recipemode' },
 			{ icon: 'x', link: 'https://twitter.com/asasinmode' },
+		],
+
+		sidebar: [
+			{
+				text: 'cookies',
+				collapsed: false,
+				base: '/cookies/',
+				items: [
+					{ text: 'macarons', link: 'macarons' },
+				],
+			},
+			{
+				text: 'cakes',
+				collapsed: false,
+				base: '/cakes/',
+				items: [
+					{ text: 'tres leches', link: 'tres-leches' },
+				],
+			},
+			{
+				text: 'dinners',
+				collapsed: false,
+				base: '/dinners/',
+				items: [
+					{ text: 'egg fried rice', link: 'egg-fried-rice' },
+				],
+			},
 		],
 	},
 
