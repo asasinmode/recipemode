@@ -28,5 +28,5 @@ features:
   - title: not original
     details: most of them have source link at the bottom
   - title: portion size is big
-    details: I like eating
+    details: I have a big apetite
 ---
