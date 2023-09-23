@@ -6,7 +6,7 @@
 - 1 tsp cinnamon
 - salt
 - 1 tsp baking soda
-- 1/4 tsp baking powder
+- ¼ tsp baking powder
 - 210g butter (room temp)
 - 230g brown sugar
 - 40g honey

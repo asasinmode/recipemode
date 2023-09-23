@@ -41,6 +41,7 @@ export default defineConfig({
 				base: '/cakes/',
 				items: [
 					{ text: 'brownie', link: 'brownie' },
+					{ text: 'cinnamon rolls', link: 'cinnamon-rolls' },
 					{ text: 'tres leches', link: 'tres-leches' },
 				],
 			},
