@@ -31,7 +31,10 @@ export default defineConfig({
 				collapsed: false,
 				base: '/dinners/',
 				items: [
+					{ text: 'calzones', link: 'calzones' },
 					{ text: 'egg fried rice', link: 'egg-fried-rice' },
+					{ text: 'pizza dough', link: 'pizza-dough' },
+					{ text: 'tomato sauce', link: 'tomato-sauce' },
 				],
 			},
 			{
