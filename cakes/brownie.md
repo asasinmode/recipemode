@@ -14,7 +14,7 @@
 
 ## ingredients by use case & order
 
-- 220g butter (melted)
+- 240g butter (melted)
 - 280g sugar
 - ~30g honey
 ---
@@ -23,7 +23,7 @@
 - salt
 - 150g chocolate (melted)
 ---
-- 125g flour
+- 180g flour
 - 40g cocoa
 --- 
 - 150g chocolate (chunks)
