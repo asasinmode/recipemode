@@ -17,7 +17,7 @@ export default defineConfig({
 		logo: '/logo.webp',
 		nav: [
 			{ text: 'home', link: '/' },
-			{ text: 'recipes', link: '/cookies/macarons' },
+			{ text: 'recipes', link: '/recipes' },
 		],
 
 		socialLinks: [
