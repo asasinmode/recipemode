@@ -13,13 +13,13 @@ hero:
   actions:
     - theme: brand
       text: cookies
-      link: /cookies/
+      link: /cookies/macarons
     - theme: brand
       text: cakes
-      link: /cakes/
+      link: /cakes/brownie
     - theme: brand
       text: dinners
-      link: /dinners/
+      link: /dinners/egg-fried-rice
 
 features:
   - title: one-stop
