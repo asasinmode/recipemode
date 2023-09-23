@@ -4,30 +4,29 @@ Universal crushed biscuit base for various cakes/pies.
 
 ## total ingredients
 
-Everything you are going to need, kitchen utensils excluded.
+- 185g graham cracker
+- 125g butter
+- 70g sugar
+- (optional) cinnamon
 
 ## ingredients by use case & order
 
-All of the ingredients grouped by their use case and sorted by the order I find best to handle/prepare/combine them. Useful if you know the directions, have all the ingredients and just need a something you can quickly glance on for reference.
+- 185g graham cracker (crushed)
+- 125g butter (melted)
+- 70g sugar
+- (optional) cinnamon
 
-Example for a cake recipe that requires you to prepare dry and wet ingredients in 2 separate bowls before combining them and uses a bit of the same ingredient in dry and for frosting.
-
-- dry ingredient 1
-- dry ingredient 2
-- 250g of dry ingredient 3
----
-- wet ingredient 1
-- wet ingredient 2
----
-- frosting ingredient 1
-- 150g of dry ingredient 3
-
-### XXX°C YY:ZZ min
+### 190°C 8:00 min
 
 ## how to
 
-Instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
+1. Butter a mould of choice. The default amount of ingredients should cover the bottom of a round cake pan with a diameter of 24cm (~450cm<sup>2</sup>).
+1. Crush the graham crackers. I recommend using mortar and pestle. Put into a bowl.
+2. Mix in the sugar and, if you want to, cinnamon to taste.
+3. Melt butter.
+4. Transfer the mixture to the buttered mould. Spread evenly, I recommend using a bottom of a glass.
+5. Bake for 8 minutes at 190°C.
 
 ## sources
 
-Links to recipes/youtube videos I originally got the recipes from. Some recipes lost their source to time. Most recipes are unmodified versions of their source.
+Lost to time.
