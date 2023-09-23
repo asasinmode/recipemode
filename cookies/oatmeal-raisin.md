@@ -32,7 +32,7 @@
 - 300g oats
 - 300g dried fruits
 
-### 175°C 12:00 min
+### 175°C 12 min
 
 ## how to
 

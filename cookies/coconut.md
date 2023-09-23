@@ -27,7 +27,7 @@
 ---
 - 200g shredded coconut (toasted)
 
-### 180°C 11:00 min
+### 180°C 11 min
 
 ## how to
 

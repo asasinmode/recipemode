@@ -28,7 +28,7 @@
 --- 
 - 150g chocolate (chunks)
 
-### 180°C 22:00 min
+### 180°C 22 min
 
 ## how to
 

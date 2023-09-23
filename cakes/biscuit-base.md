@@ -16,7 +16,7 @@ Universal crushed biscuit base for various cakes/pies.
 - 70g sugar
 - (optional) cinnamon
 
-### 190°C 8:00 min
+### 190°C 8 min
 
 ## how to
 

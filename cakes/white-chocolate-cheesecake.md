@@ -28,7 +28,7 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 - 320g 30% cream (very cold)
 - 3 tbsp powdered sugar
 
-### 175°C 30:00 min
+### 175°C 30 min
 
 ## how to
 

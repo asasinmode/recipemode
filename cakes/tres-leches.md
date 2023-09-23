@@ -39,7 +39,7 @@ Will update the recipe once I remake it.
 - 300ml (?) 30% cream
 - 2 tbsp powdered sugar
 
-### 175°C 27:00 min
+### 175°C 27 min
 
 ## how to
 

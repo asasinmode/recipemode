@@ -26,7 +26,7 @@
 - 160g butter (room temp)
 - cinnamon
 
-### 180°C ~25:00 min
+### 180°C 25 min
 
 ## how to
 

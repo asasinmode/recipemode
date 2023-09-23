@@ -32,7 +32,7 @@
 - 165g walnuts (chopped)
 - 400g chocolate
 
-### 220°C 11:00 min
+### 220°C 11 min
 
 ## how to
 
