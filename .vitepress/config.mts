@@ -10,11 +10,11 @@ export default defineConfig({
 	head: [
 		['link', { rel: 'icon', href: '/favicon.ico' }],
 		['link', { rel: 'icon', href: '/favicon_dark.ico', media: '(prefers-color-scheme: dark)' }],
-		['link', { rel: 'mask-icon', href: '/favicon_mask.svg', color: '#000000' }],
+		['link', { rel: 'mask-icon', href: '/cupcake.svg', color: '#000000' }],
 	],
 
 	themeConfig: {
-		logo: '/hero_image.webp',
+		logo: '/logo.webp',
 		nav: [
 			{ text: 'home', link: '/' },
 			{ text: 'recipes', link: '/cookies/macarons' },
