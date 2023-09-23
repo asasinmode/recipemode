@@ -5,8 +5,8 @@
 - 240g butter
 - 280g sugar
 - ~30g honey
-- Salt
-- Vanilla
+- salt
+- vanilla
 - 3 eggs
 - 300g chocolate
 - 180g flour

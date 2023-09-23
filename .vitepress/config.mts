@@ -32,6 +32,7 @@ export default defineConfig({
 				base: '/cookies/',
 				items: [
 					{ text: 'macarons', link: 'macarons' },
+					{ text: 'oatmeal raisin', link: 'oatmeal-raisin' },
 				],
 			},
 			{
