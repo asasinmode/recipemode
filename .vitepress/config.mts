@@ -63,6 +63,7 @@ export default defineConfig({
 				base: '/desserts/',
 				items: [
 					{ text: 'lemon/lime mousse', link: 'lemon-lime-mousse' },
+					{ text: 'panna cotta', link: 'panna-cotta' },
 				],
 			},
 		],
