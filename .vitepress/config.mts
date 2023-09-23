@@ -39,6 +39,7 @@ export default defineConfig({
 				collapsed: false,
 				base: '/cakes/',
 				items: [
+					{ text: 'brownie', link: 'brownie' },
 					{ text: 'tres leches', link: 'tres-leches' },
 				],
 			},
