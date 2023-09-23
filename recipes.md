@@ -22,6 +22,8 @@ Example for a cake recipe that requires you to prepare dry and wet ingredients i
 - frosting ingredient 1
 - 150g of dry ingredient 3
 
+### XXX°C YY:ZZ min
+
 ## how to
 
 Instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
