@@ -32,7 +32,7 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 
 ## how to
 
-1. Cream cheese should be room temperature. Whipping cream coldest you can get it (put into a freezer ~30 minutes before you whip it, I recommend doing it on step 5).
+1. Cream cheese should be room temperature. Whipping cream should be the coldest you can get it (put into a freezer ~30 minutes before you whip it, I recommend doing it on step 5).
 2. Whip 570g of cream cheese with 18% cream and sugar until fluffy. Whisk in the corn starch and vanilla.
 3. Pour into a buttered baking dish of choice, ideally with [a base](biscuit-base). With default amounts of ingredients I use a round baking dish with a diameter of 24cm that's 7 cm high (~3150cm<sup>3</sup>).
 4. Bake for around 30 minutes at 175°C. Should still have a bit of jiggle in the center.
