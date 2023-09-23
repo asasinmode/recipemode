@@ -33,6 +33,7 @@ export default defineConfig({
 				items: [
 					{ text: 'macarons', link: 'macarons' },
 					{ text: 'oatmeal raisin', link: 'oatmeal-raisin' },
+					{ text: 'chocolate chip walnut', link: 'chocolate-chip-walnut' },
 				],
 			},
 			{
