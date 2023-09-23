@@ -15,10 +15,10 @@ Will update the recipe once I remake it.
 - 138g flour
 - salt
 - 1 tsp baking powder
-- 300ml (?) whipping cream
+- 300ml (?) 30% cream
 - 200g dulce de leche
-- 1 can (530g) sweetened condensed milk
-
+- 530g sweetened condensed milk
+- 2 tbsp powdered sugar
 
 ## ingredients by use case & order
 
@@ -33,10 +33,11 @@ Will update the recipe once I remake it.
 - 100g sugar
 - salt
 ---
-- 1 can (530g) sweetened condensed milk
+- 530g sweetened condensed milk
 ---
 - 200g dulce de leche
-- 300ml (?) whipping cream
+- 300ml (?) 30% cream
+- 2 tbsp powdered sugar
 
 ### 175°C 27:00 min
 

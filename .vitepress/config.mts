@@ -27,6 +27,14 @@ export default defineConfig({
 
 		sidebar: [
 			{
+				text: 'dinners',
+				collapsed: false,
+				base: '/dinners/',
+				items: [
+					{ text: 'egg fried rice', link: 'egg-fried-rice' },
+				],
+			},
+			{
 				text: 'cookies',
 				collapsed: false,
 				base: '/cookies/',
@@ -47,14 +55,6 @@ export default defineConfig({
 					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 					{ text: 'tres leches', link: 'tres-leches' },
 					{ text: 'biscuit base', link: 'biscuit-base' },
-				],
-			},
-			{
-				text: 'dinners',
-				collapsed: false,
-				base: '/dinners/',
-				items: [
-					{ text: 'egg fried rice', link: 'egg-fried-rice' },
 				],
 			},
 			{

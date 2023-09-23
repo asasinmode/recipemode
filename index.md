@@ -12,14 +12,14 @@ hero:
     
   actions:
     - theme: brand
+      text: dinners
+      link: /dinners/egg-fried-rice
+    - theme: brand
       text: cookies
       link: /cookies/macarons
     - theme: brand
       text: cakes
       link: /cakes/brownie
-    - theme: brand
-      text: dinners
-      link: /dinners/egg-fried-rice
     - theme: brand
       text: desserts
       link: /desserts/lemon-lime-mousse

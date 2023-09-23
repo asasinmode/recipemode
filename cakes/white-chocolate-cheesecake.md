@@ -9,7 +9,7 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 - 2 ½ tbsp corn starch
 - 250g sugar
 - vanilla
-- 320g whipping cream (30%)
+- 320g 30% cream
 - 3 tbsp powdered sugar
 - 170g white chocolate
 
@@ -25,7 +25,7 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 - 170g white chocolate (melted)
 - vanilla
 ---
-- 320g whipping cream (very cold)
+- 320g 30% cream (very cold)
 - 3 tbsp powdered sugar
 
 ### 175°C 30:00 min
