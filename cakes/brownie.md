@@ -1,6 +1,6 @@
 # brownie
 
-## ingredients
+## total ingredients
 
 - 240g butter
 - 280g sugar
