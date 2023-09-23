@@ -24,7 +24,7 @@ Example for a cake recipe that requires you to prepare dry and wet ingredients i
 
 ## how to
 
-Somewhat detailed instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
+Instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
 
 ## sources
 
