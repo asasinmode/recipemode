@@ -50,7 +50,7 @@ Will update the recipe once I remake it.
 5. To the whites bowl, add the rest of the sugar and salt. Whisk until stiff peaks.
 6. Fold in the beaten whites into the yolks.
 7. Pour the cake mixture into 2 (or 1 if you prefer a single bigger layer, I'm assuming 2) buttered cake moulds.
-8. Bake for 27 minutes at 175°C. A skewer inserted into the middle should come out dry.
+8. Bake for 27 minutes at 175°C. A skewer inserted into the middle should come out clean.
 9. Leave in the oven with the door slightly opened for ~15 minutes. Afterwards take out and let cool completely.
 10. Once cooled, leave in the moulds and stab many times with a fork to create holes.
 11. Pour all of the sweetened condensed milk evenly onto both layers. Might have to be done in 2 series, cake should absorb everything.

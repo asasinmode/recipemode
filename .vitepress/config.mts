@@ -55,6 +55,7 @@ export default defineConfig({
 					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 					{ text: 'tres leches', link: 'tres-leches' },
 					{ text: 'biscuit base', link: 'biscuit-base' },
+					{ text: 'banana bread', link: 'banana-bread' },
 				],
 			},
 			{
