@@ -20,6 +20,9 @@ hero:
     - theme: brand
       text: dinners
       link: /dinners/egg-fried-rice
+    - theme: brand
+      text: desserts
+      link: /desserts/lemon-lime-mousse
 
 features:
   - title: one-stop

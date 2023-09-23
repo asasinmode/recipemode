@@ -57,6 +57,14 @@ export default defineConfig({
 					{ text: 'egg fried rice', link: 'egg-fried-rice' },
 				],
 			},
+			{
+				text: 'desserts',
+				collapsed: false,
+				base: '/desserts/',
+				items: [
+					{ text: 'lemon/lime mousse', link: 'lemon-lime-mousse' },
+				],
+			},
 		],
 	},
 
