@@ -39,10 +39,10 @@ export default defineConfig({
 				collapsed: false,
 				base: '/cookies/',
 				items: [
+					{ text: 'coconut', link: 'coconut' },
+					{ text: 'chocolate chip walnut', link: 'chocolate-chip-walnut' },
 					{ text: 'macarons', link: 'macarons' },
 					{ text: 'oatmeal raisin', link: 'oatmeal-raisin' },
-					{ text: 'chocolate chip walnut', link: 'chocolate-chip-walnut' },
-					{ text: 'coconut', link: 'coconut' },
 				],
 			},
 			{
@@ -50,12 +50,12 @@ export default defineConfig({
 				collapsed: false,
 				base: '/cakes/',
 				items: [
+					{ text: 'banana bread', link: 'banana-bread' },
+					{ text: 'biscuit base', link: 'biscuit-base' },
 					{ text: 'brownie', link: 'brownie' },
 					{ text: 'cinnamon rolls', link: 'cinnamon-rolls' },
-					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 					{ text: 'tres leches', link: 'tres-leches' },
-					{ text: 'biscuit base', link: 'biscuit-base' },
-					{ text: 'banana bread', link: 'banana-bread' },
+					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 				],
 			},
 			{
