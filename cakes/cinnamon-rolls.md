@@ -4,7 +4,7 @@
 
 - 480ml milk
 - 100g sugar
-- 260g butter (160g room temp)
+- 260g butter
 - 2 ¼ tsp dry yeast
 - 625g flour
 - 1 tsp baking powder

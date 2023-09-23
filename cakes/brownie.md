@@ -15,18 +15,18 @@
 ## ingredients by use case & order
 
 - 220g butter (melted)
-- 280g sugar (can be part vanilla sugar)
+- 280g sugar
 - ~30g honey
 ---
 - 3 eggs
-- vanilla (if no vanilla sugar)
+- vanilla
 - salt
-- 150g melted chocolate
+- 150g chocolate (melted)
 ---
 - 125g flour
 - 40g cocoa
 --- 
-- 150g chocolate chunks
+- 150g chocolate (chunks)
 
 ### 180°C 22:00 min
 

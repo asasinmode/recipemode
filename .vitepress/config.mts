@@ -42,7 +42,9 @@ export default defineConfig({
 				items: [
 					{ text: 'brownie', link: 'brownie' },
 					{ text: 'cinnamon rolls', link: 'cinnamon-rolls' },
+					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 					{ text: 'tres leches', link: 'tres-leches' },
+					{ text: 'biscuit base', link: 'biscuit-base' },
 				],
 			},
 			{
