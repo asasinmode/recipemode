@@ -1,31 +1,31 @@
 # lemon/lime mousse
 
+Can be served either on its own as a mousse or with [biscuit base](/cakes/biscuit-base).
+
 ## total ingredients
 
-Everything you are going to need, kitchen utensils excluded.
+- 500g 30% cream
+- 530g sweetened condensed milk
+- 4 limes / 2 lemons, juice and zest
+- salt
 
 ## ingredients by use case & order
 
-All of the ingredients grouped by their use case and sorted by the order I find best to handle/prepare/combine them. Useful if you know the directions, have all the ingredients and just need a something you can quickly glance on for reference.
-
-Example for a cake recipe that requires you to prepare dry and wet ingredients in 2 separate bowls before combining them and uses a bit of the same ingredient in dry and for frosting.
-
-- dry ingredient 1
-- dry ingredient 2
-- 250g of dry ingredient 3
+- 4 limes / 2 lemons, juice and zest
 ---
-- wet ingredient 1
-- wet ingredient 2
----
-- frosting ingredient 1
-- 150g of dry ingredient 3
-
-### XXX°C YY:ZZ min
+- 500g 30% cream (very cold)
+- 530g sweetened condensed milk (also cold)
+- salt
 
 ## how to
 
-Instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
+1. Zest and juice the citrus of choice.
+2. Whip the cream and a sprinkle of salt.
+3. Without deflating the cream, fold in sweetened condensed milk.
+4. Fold in the zest and the juice. Be gentle and keep folding until it you mixed everything and the mousse stiffens a bit. There should be a noticeable change in the consistency, not quite whites-stiff-peaks but still slightly stiffer. Make sure to scrape the bottom of the bowl.
+5. Pour on top of a cooled [biscuit base](/cakes/biscuit-base) or into a serving container of choice.
+6. Refrigerate for ~2 hours until completely stiffened.
 
 ## sources
 
-Links to recipes/youtube videos I originally got the recipes from. Some recipes lost their source to time. Most recipes are unmodified versions of their source.
+Lost to time.
