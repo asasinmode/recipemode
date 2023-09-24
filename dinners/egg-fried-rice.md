@@ -6,7 +6,7 @@
 - 6 green onions
 - 4 carrots
 - 3 chilli peppers
-- frozen green peas ~450g
+- 400g frozen green peas
 - medium knob of ginger
 - garlic ~same volume as ginger
 - 6 eggs
