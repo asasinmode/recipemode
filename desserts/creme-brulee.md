@@ -18,16 +18,16 @@ I make it whenever I have leftover yolks from [macarons](/macarons/base).
 ## total ingredients
 
 - <WeightInput id="yolksNumber" v-model="rawYolksNumber" @focusout="updateParsedWeight" label="yolks" no-g />
-- {{ Math.round(yolksNumber * 80) }}ml 30% cream
-- {{ Math.round(yolksNumber * 12.5) }}g sugar
+- {{ Math.round(parsedYolksNumber * 80) }}ml 30% cream
+- {{ Math.round(parsedYolksNumber * 12.5) }}g sugar
 - vanilla
 - salt
 
 ## ingredients by use case & order
 
-- {{ yolksNumber }} yolks
-- {{ Math.round(yolksNumber * 80) }}ml 30% cream
-- {{ Math.round(yolksNumber * 12.5) }}g sugar
+- {{ parsedYolksNumber }} yolks
+- {{ Math.round(parsedYolksNumber * 80) }}ml 30% cream
+- {{ Math.round(parsedYolksNumber * 12.5) }}g sugar
 - vanilla
 - salt
 
