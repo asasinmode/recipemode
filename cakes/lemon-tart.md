@@ -41,7 +41,7 @@ You are also going to need a [base](biscuit-base).
 
 1. In a bowl or a sauce pan mix together the sugar and lemon zest.
 2. Add in the egg, yolks, salt and vanilla. Mix until homogeneous.
-3. Mix in the lemon juice and transfer to a sauce pan over a small heat.
+3. Mix in the lemon juice and transfer to a sauce pan over small heat.
 4. While whisking constantly, heat up until thickened and covers the back of the spoon. Be careful not to overcook the curd.
 5. Once ready, take off the heat and add mix in the butter in small pieces one at a time.
 6. Let cool to a refrigerator temperature.

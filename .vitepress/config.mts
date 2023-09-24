@@ -80,6 +80,8 @@ export default defineConfig({
 				base: '/macarons/',
 				items: [
 					{ text: 'base', link: 'base' },
+					{ text: 'caramel sauce', link: 'caramel-sauce' },
+					{ text: 'mascarpone whipped cream', link: 'mascarpone-whipped-cream' },
 				],
 			},
 		],
