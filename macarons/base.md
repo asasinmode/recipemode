@@ -19,7 +19,7 @@ I recommend making the macarons based on the amount of egg whites you have. Ente
 
 ## total ingredients
 
-- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" label="g egg whites" />
+- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" label="egg whites" />
 - {{ Math.round(parsedWhitesWeight * 0.5) }}g sugar
 - salt
 - {{ Math.round(parsedWhitesWeight * 1.2) }}g almond flour

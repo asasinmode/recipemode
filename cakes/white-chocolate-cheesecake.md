@@ -5,18 +5,18 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 ## total ingredients
 
 - 740g cream cheese
-- 300g 18% cream
+- 300ml 18% cream
 - 2 ½ tbsp corn starch
 - 250g sugar
 - vanilla
-- 320g 30% cream
+- 320ml 30% cream
 - 3 tbsp powdered sugar
 - 170g white chocolate
 
 ## ingredients by use case & order
 
 - 570g cream cheese (room temp)
-- 300g 18% cream (cold)
+- 300ml 18% cream (cold)
 - 2 tbsp corn starch
 - 250g sugar
 - vanilla
@@ -25,7 +25,7 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 - 170g white chocolate (melted)
 - vanilla
 ---
-- 320g 30% cream (very cold)
+- 320ml 30% cream (very cold)
 - 3 tbsp powdered sugar
 
 ### 175°C 30 min

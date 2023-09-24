@@ -4,7 +4,7 @@ Can be served either on its own as a mousse or with [biscuit base](/cakes/biscui
 
 ## total ingredients
 
-- 500g 30% cream
+- 500ml 30% cream
 - 530g sweetened condensed milk
 - 4 limes / 2 lemons, juice and zest
 - salt
@@ -13,7 +13,7 @@ Can be served either on its own as a mousse or with [biscuit base](/cakes/biscui
 
 - 4 limes / 2 lemons, juice and zest
 ---
-- 500g 30% cream (very cold)
+- 500ml 30% cream (very cold)
 - 530g sweetened condensed milk (also cold)
 - salt
 
