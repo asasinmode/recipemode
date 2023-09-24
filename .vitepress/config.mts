@@ -31,6 +31,7 @@ export default defineConfig({
 				collapsed: false,
 				base: '/dinners/',
 				items: [
+					{ text: 'butter chicken', link: 'butter-chicken' },
 					{ text: 'calzones', link: 'calzones' },
 					{ text: 'chili', link: 'chili' },
 					{ text: 'egg fried rice', link: 'egg-fried-rice' },
