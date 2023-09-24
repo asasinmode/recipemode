@@ -32,6 +32,7 @@ export default defineConfig({
 				base: '/dinners/',
 				items: [
 					{ text: 'calzones', link: 'calzones' },
+					{ text: 'chili', link: 'chili' },
 					{ text: 'egg fried rice', link: 'egg-fried-rice' },
 					{ text: 'keema matar', link: 'keema-matar' },
 					{ text: 'orange chicken', link: 'orange-chicken' },
