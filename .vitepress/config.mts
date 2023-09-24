@@ -82,7 +82,9 @@ export default defineConfig({
 				items: [
 					{ text: 'base', link: 'base' },
 					{ text: 'caramel sauce', link: 'caramel-sauce' },
+					{ text: 'chocolate ganache', link: 'chocolate-ganache' },
 					{ text: 'mascarpone whipped cream', link: 'mascarpone-whipped-cream' },
+					{ text: 'white chocolate whipped cream', link: 'white-chocolate-whipped-cream' },
 				],
 			},
 		],

@@ -25,7 +25,7 @@ hero:
       link: /cakes/banana-bread
     - theme: alt
       text: desserts
-      link: /desserts/lemon-lime-mousse
+      link: /desserts/creme-brulee
 
 features:
   - title: one-stop
