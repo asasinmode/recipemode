@@ -8,7 +8,7 @@ Everything you are going to need, kitchen utensils excluded.
 
 ## ingredients by use case & order
 
-All of the ingredients grouped by their use case and sorted by the order I find best to handle/prepare/combine them. Useful if you know the directions, have all the ingredients and just need a something you can quickly glance on for reference.
+All of the ingredients grouped by their use case and sorted by the order I find best to handle/prepare/combine them. Useful if you know the directions, have all the ingredients and just need something you can quickly glance on for reference.
 
 Example for a cake recipe that requires you to prepare dry and wet ingredients in 2 separate bowls before combining them and uses a bit of the same ingredient in dry and for frosting.
 
