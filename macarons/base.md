@@ -3,10 +3,10 @@ import { ref } from 'vue';
 
 import WeightInput from '../components/WeightInput.vue';
 
-const rawWhitesWeight = ref(0);
-const parsedWhitesWeight = ref(0);
+const rawWhitesWeight = ref(90);
+const parsedWhitesWeight = ref(90);
 
-function updateWhitesWeight(){
+function updateWhitesWeight() {
   parsedWhitesWeight.value = rawWhitesWeight.value;
 }
 </script>
