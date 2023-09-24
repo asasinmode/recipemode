@@ -34,6 +34,7 @@ export default defineConfig({
 					{ text: 'calzones', link: 'calzones' },
 					{ text: 'egg fried rice', link: 'egg-fried-rice' },
 					{ text: 'keema matar', link: 'keema-matar' },
+					{ text: 'orange chicken', link: 'orange-chicken' },
 					{ text: 'pizza dough', link: 'pizza-dough' },
 					{ text: 'tomato sauce', link: 'tomato-sauce' },
 				],
