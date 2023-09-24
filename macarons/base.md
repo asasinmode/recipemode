@@ -1,7 +1,14 @@
 <script setup lang="ts">
+import { ref } from 'vue';
+
 import WeightInput from '../components/WeightInput.vue';
 
-const whitesWeight = ref(0);
+const rawWhitesWeight = ref(0);
+const parsedWhitesWeight = ref(0);
+
+function updateWhitesWeight(){
+  parsedWhitesWeight.value = rawWhitesWeight.value;
+}
 </script>
 
 # macarons
@@ -12,11 +19,11 @@ I recommend making the macarons based on the amount of egg whites you have. Ente
 
 ## total ingredients
 
-- <WeightInput v-model="whitesWeight" /> g whites
+- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" /> g whites
 
 ## ingredients by use case & order
 
-- {{ whitesWeight }}g egg whites
+- {{ parsedWhitesWeight }}g egg whites
 
 ### 145°C 12 min + flip and 5 min more if using silicone mat.
 

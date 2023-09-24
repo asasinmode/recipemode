@@ -12,15 +12,18 @@ hero:
     
   actions:
     - theme: brand
+      text: macarons
+      link: /macarons/base
+    - theme: alt
       text: dinners
       link: /dinners/butter-chicken
-    - theme: brand
+    - theme: alt
       text: cookies
       link: /cookies/coconut
-    - theme: brand
+    - theme: alt
       text: cakes
       link: /cakes/banana-bread
-    - theme: brand
+    - theme: alt
       text: desserts
       link: /desserts/lemon-lime-mousse
 

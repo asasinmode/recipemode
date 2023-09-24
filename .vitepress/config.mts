@@ -90,4 +90,10 @@ export default defineConfig({
 			Unocss(fileURLToPath(new URL('./uno.config.ts', import.meta.url))),
 		],
 	},
+
+	vue: {
+		script: {
+			defineModel: true,
+		},
+	},
 });
