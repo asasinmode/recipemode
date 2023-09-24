@@ -19,11 +19,20 @@ I recommend making the macarons based on the amount of egg whites you have. Ente
 
 ## total ingredients
 
-- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" /> g whites
+- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" /> g egg whites
+- {{ Math.round(parsedWhitesWeight * 0.4) }}g sugar
+- salt
+- {{ Math.round(parsedWhitesWeight * 1.15) }}g almond flour
+- {{ Math.round(parsedWhitesWeight * 1.6) }}g powdered sugar
 
 ## ingredients by use case & order
 
 - {{ parsedWhitesWeight }}g egg whites
+- {{ Math.round(parsedWhitesWeight * 0.4) }}g sugar
+- salt
+---
+- {{ Math.round(parsedWhitesWeight * 1.15) }}g almond flour
+- {{ Math.round(parsedWhitesWeight * 1.6) }}g powdered sugar
 
 ### 145°C 12 min + flip and 5 min more if using silicone mat.
 
