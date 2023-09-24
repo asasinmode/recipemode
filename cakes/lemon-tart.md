@@ -14,7 +14,7 @@ You are also going to need a [base](biscuit-base).
 - 210g lemon juice (5/6 large lemons)
 - 141g butter
 - 150g plain yogurt
-- enough jam to cover the bottom of your cake pan
+- enough jam to cover your base in a thin layer
 
 ## ingredients by use case & order
 
@@ -32,7 +32,7 @@ You are also going to need a [base](biscuit-base).
 ---
 - 141g butter
 ---
-- enough jam to cover the bottom of your cake pan
+- enough jam to cover your base in a thin layer
 - 150g plain yogurt
 
 ### 175°C 27 min
