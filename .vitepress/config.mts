@@ -60,6 +60,7 @@ export default defineConfig({
 					{ text: 'biscuit base', link: 'biscuit-base' },
 					{ text: 'brownie', link: 'brownie' },
 					{ text: 'cinnamon rolls', link: 'cinnamon-rolls' },
+					{ text: 'lemon tart', link: 'lemon-tart' },
 					{ text: 'tres leches', link: 'tres-leches' },
 					{ text: 'white chocolate cheesecake', link: 'white-chocolate-cheesecake' },
 				],
