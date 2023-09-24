@@ -28,7 +28,7 @@ export default defineConfig({
 		sidebar: [
 			{
 				text: 'dinners',
-				collapsed: false,
+				collapsed: true,
 				base: '/dinners/',
 				items: [
 					{ text: 'butter chicken', link: 'butter-chicken' },
@@ -43,18 +43,17 @@ export default defineConfig({
 			},
 			{
 				text: 'cookies',
-				collapsed: false,
+				collapsed: true,
 				base: '/cookies/',
 				items: [
 					{ text: 'coconut', link: 'coconut' },
 					{ text: 'chocolate chip walnut', link: 'chocolate-chip-walnut' },
-					{ text: 'macarons', link: 'macarons' },
 					{ text: 'oatmeal raisin', link: 'oatmeal-raisin' },
 				],
 			},
 			{
 				text: 'cakes',
-				collapsed: false,
+				collapsed: true,
 				base: '/cakes/',
 				items: [
 					{ text: 'banana bread', link: 'banana-bread' },
@@ -68,11 +67,19 @@ export default defineConfig({
 			},
 			{
 				text: 'desserts',
-				collapsed: false,
+				collapsed: true,
 				base: '/desserts/',
 				items: [
 					{ text: 'lemon/lime mousse', link: 'lemon-lime-mousse' },
 					{ text: 'panna cotta', link: 'panna-cotta' },
+				],
+			},
+			{
+				text: 'macarons',
+				collapsed: true,
+				base: '/macarons/',
+				items: [
+					{ text: 'base', link: 'base' },
 				],
 			},
 		],
