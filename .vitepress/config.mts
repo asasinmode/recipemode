@@ -12,6 +12,7 @@ export default defineConfig({
 		['link', { rel: 'icon', href: '/favicon_dark.ico', media: '(prefers-color-scheme: dark)' }],
 		['link', { rel: 'mask-icon', href: '/cupcake.svg', color: '#000000' }],
 	],
+	base: '/recipemode/',
 
 	themeConfig: {
 		logo: '/logo.webp',
