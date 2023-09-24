@@ -6,9 +6,13 @@ defineProps<{
 	label: string;
 }>();
 
+const emit = defineEmits<{
+	focusout: [FocusEvent];
+}>();
+
 const modelValue = defineModel<string | number>({ required: true });
 
-function parseInput(event: Event) {
+function parseInput(event: FocusEvent) {
 	const value = parseInt(`${(event.target as HTMLInputElement).value}`.replaceAll(/[^\d-.]/g, ''));
 
 	if (Number.isNaN(value) || value < 0) {
@@ -18,6 +22,8 @@ function parseInput(event: Event) {
 	}
 
 	(event.target as HTMLInputElement).value = modelValue.value.toString();
+
+	emit('focusout', event);
 }
 </script>
 
