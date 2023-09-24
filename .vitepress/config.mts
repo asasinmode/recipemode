@@ -81,10 +81,20 @@ export default defineConfig({
 				base: '/macarons/',
 				items: [
 					{ text: 'base', link: 'base' },
-					{ text: 'caramel sauce', link: 'caramel-sauce' },
-					{ text: 'chocolate ganache', link: 'chocolate-ganache' },
-					{ text: 'mascarpone whipped cream', link: 'mascarpone-whipped-cream' },
-					{ text: 'white chocolate whipped cream', link: 'white-chocolate-whipped-cream' },
+					{
+						text: 'cream and caramel',
+						items: [
+							{ text: 'caramel sauce', link: 'caramel-sauce' },
+							{ text: 'mascarpone whipped cream', link: 'mascarpone-whipped-cream' },
+						],
+					},
+					{
+						text: 'white and dark chocolate',
+						items: [
+							{ text: 'chocolate ganache', link: 'chocolate-ganache' },
+							{ text: 'white chocolate filling', link: 'white-chocolate-filling' },
+						],
+					},
 				],
 			},
 		],

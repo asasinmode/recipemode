@@ -13,7 +13,7 @@ function updateParsedWeight() {
 
 # mascarpone whipped cream
 
-I usually use it as a [macarons](base) filling that surrounds [caramel sauce](caramel-sauce).
+I usually use it as a [macarons](base) filling that surrounds [caramel sauce](caramel-sauce) or jam.
 
 Default amount of ingredients should be enough for macarons made with 3 egg whites.
 

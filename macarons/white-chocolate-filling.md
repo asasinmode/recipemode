@@ -1,4 +1,4 @@
-# white chocolate whipped cream
+# white chocolate filling
 
 I usually use it as a [macarons](base) filling that surrounds [chocolate ganache](chocolate-ganache).
 

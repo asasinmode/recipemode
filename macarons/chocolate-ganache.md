@@ -1,6 +1,6 @@
 # chocolate ganache
 
-I usually use it as a [macarons](base) filling that's surrounded by [white chocolate whipped cream](white-chocolate-whipped-cream).
+I usually use it as a [macarons](base) filling that's surrounded by [white chocolate filling](white-chocolate-filling).
 
 Default amount of ingredients should be enough for macarons made with 3 egg whites.
 
