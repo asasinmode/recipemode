@@ -22,10 +22,9 @@ Can be used for [calzones](calzones) or pizza (with [pizza dough](pizza-dough)).
 
 ## how to
 
-1. Add everything into a wide pan so that it evaporates faster.
-2. If using raw onions finely dice. If raw garlic then either press or chop finely.
+1. If using raw onions finely dice. If raw garlic then either press or chop finely.
+2. Add everything into a wide pan so that it evaporates faster.
 3. Boil until thickened to desired consistency.
-
 
 ## sources
 
