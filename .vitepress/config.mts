@@ -57,8 +57,10 @@ export default defineConfig({
 				base: '/cakes/',
 				items: [
 					{ text: 'banana bread', link: 'banana-bread' },
+					{ text: 'banana cake', link: 'banana-cake' },
 					{ text: 'biscuit base', link: 'biscuit-base' },
 					{ text: 'brownie', link: 'brownie' },
+					{ text: 'carrot cake', link: 'carrot-cake' },
 					{ text: 'cinnamon rolls', link: 'cinnamon-rolls' },
 					{ text: 'lemon tart', link: 'lemon-tart' },
 					{ text: 'tres leches', link: 'tres-leches' },
