@@ -3,11 +3,11 @@ import { ref } from 'vue';
 
 import WeightInput from '../components/WeightInput.vue';
 
-const rawWhitesWeight = ref(90);
-const parsedWhitesWeight = ref(90);
+const rawMascarponeWeight = ref(70);
+const parsedMascarponeWeight = ref(70);
 
-function updateWhitesWeight() {
-  parsedWhitesWeight.value = rawWhitesWeight.value;
+function updateParsedWeight() {
+  parsedMascarponeWeight.value = rawMascarponeWeight.value;
 }
 </script>
 
@@ -19,34 +19,23 @@ Default amount of ingredients should be enough for macarons made with 3 egg whit
 
 ## total ingredients
 
-- 75g sugar
-- <WeightInput id="sugarWeight" v-model="rawWhitesWeight" @focusout="updateWhitesWeight" label="g egg whites" />
-- splash of water
-- 45ml 30% cream
-- 
+- <WeightInput id="mascarponeWeight" v-model="rawMascarponeWeight" @focusout="updateParsedWeight" label="mascarpone" />
+- {{ Math.round(parsedMascarponeWeight * 0.55) }}g 30% cream
+- powdered sugar to taste
 
 ## ingredients by use case & order
 
-All of the ingredients grouped by their use case and sorted by the order I find best to handle/prepare/combine them. Useful if you know the directions, have all the ingredients and just need something you can quickly glance on for reference.
-
-Example for a cake recipe that requires you to prepare dry and wet ingredients in 2 separate bowls before combining them and uses a bit of the same ingredient in dry and for frosting.
-
-- dry ingredient 1
-- dry ingredient 2
-- 250g of dry ingredient 3
+- {{ parsedMascarponeWeight }}g mascarpone
+- {{ Math.round(parsedMascarponeWeight * 0.55) }}g 30% cream
 ---
-- wet ingredient 1
-- wet ingredient 2
----
-- frosting ingredient 1
-- 150g of dry ingredient 3
-
-### XXX°C YY min
+- powdered sugar to taste
 
 ## how to
 
-1. Add
+1. Add everything into a mixing bowl. Make sure both mascarpone and cream are cold.
+2. Whip up.
+3. Add sugar to taste.
 
 ## sources
 
-Sally's Baking Addiction's [homemade salted caramel sauce](https://sallysbakingaddiction.com/homemade-salted-caramel-recipe/). Scaled down, without salt.
+Lost to time.

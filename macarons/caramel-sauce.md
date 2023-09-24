@@ -6,7 +6,7 @@ import WeightInput from '../components/WeightInput.vue';
 const rawSugarWeight = ref(75);
 const parsedSugarWeight = ref(75);
 
-function updateSugarWeight() {
+function updateParsedWeight() {
   parsedSugarWeight.value = rawSugarWeight.value;
 }
 </script>
@@ -19,7 +19,7 @@ Default amount of ingredients should be enough for macarons made with 3 egg whit
 
 ## total ingredients
 
-- <WeightInput id="sugarWeight" v-model="rawSugarWeight" @focusout="updateSugarWeight" label="sugar" />
+- <WeightInput id="sugarWeight" v-model="rawSugarWeight" @focusout="updateParsedWeight" label="sugar" />
 - splash of water
 - {{ Math.round(parsedSugarWeight * 0.6) }}ml 30% cream
 - {{ Math.round(parsedSugarWeight * 0.187) }}g butter
