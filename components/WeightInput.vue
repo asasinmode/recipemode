@@ -4,6 +4,7 @@ import { defineModel, defineProps } from 'vue';
 defineProps<{
 	id: string;
 	label: string;
+	noG?: boolean;
 }>();
 
 const emit = defineEmits<{
@@ -34,5 +35,5 @@ function parseInput(event: FocusEvent) {
 		class="rounded-full w-15 min-w-15 bg-[#1b1b1f] color-[#ffffff] dark:bg-[#deded6] dark:color-[#161618] py-1 px-3 focus:(outline-[var(--vp-c-brand-3)] outline)"
 		@focusout="parseInput"
 	>
-	<label class="ml-[0.2rem]" :for="id">g {{ label }}</label>
+	<label class="ml-[0.2rem]" :for="id">{{ noG ? '' : 'g' }} {{ label }}</label>
 </template>

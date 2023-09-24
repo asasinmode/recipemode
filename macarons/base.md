@@ -17,9 +17,11 @@ I recommend making the macarons based on the amount of egg whites you have. Ente
 
 3 egg whites is a good start for one batch.
 
+To use up the yolks check out [lemon tart](/cakes/lemon-tart) or [creme brulee](/desserts/creme-brulee).
+
 ## total ingredients
 
-- <WeightInput id="macaronsWhitesWeight" v-model="rawWhitesWeight" @focusout="updateParsedWeight" label="egg whites" />
+- <WeightInput id="whitesWeight" v-model="rawWhitesWeight" @focusout="updateParsedWeight" label="egg whites" />
 - {{ Math.round(parsedWhitesWeight * 0.5) }}g sugar
 - salt
 - {{ Math.round(parsedWhitesWeight * 1.2) }}g almond flour
@@ -34,7 +36,7 @@ I recommend making the macarons based on the amount of egg whites you have. Ente
 - {{ Math.round(parsedWhitesWeight * 1.2) }}g almond flour
 - {{ Math.round(parsedWhitesWeight * 1.6) }}g powdered sugar
 
-### 145°C 12 min + flip and 5 min more if using silicone mat.
+### 145°C 12 min + flip and 5 min more if using silicone mat
 
 ## how to
 
