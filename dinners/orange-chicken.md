@@ -13,7 +13,7 @@
 - 1 tbsp pepper / cayenne
 - small knob of ginger
 - garlic ~same volume as ginger
-- 2 chilli peppers
+- 2 chili peppers
 - 3 green onions
 - 1 stock cube
 - 20g sesame oil
@@ -44,7 +44,7 @@
 - small knob of ginger
 - garlic ~same volume as ginger
 - 3 green onions
-- 2 chilli peppers
+- 2 chili peppers
 ---
 - 100g soy sauce
 - 100g mirin

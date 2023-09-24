@@ -5,7 +5,7 @@
 - 400g rice
 - 6 green onions
 - 4 carrots
-- 3 chilli peppers
+- 3 chili peppers
 - 400g frozen green peas
 - medium knob of ginger
 - garlic ~same volume as ginger
@@ -27,7 +27,7 @@
 ---
 - ginger
 - garlic
-- chilli peppers
+- chili peppers
 ---
 - green onions
 - carrots
@@ -44,7 +44,7 @@
 2. Take peas out of the freezer.
 3. Mix both soy sauces, sesame oil and fish sauce in a glass or a bowl.
 4. Whisk eggs & spices of choice in a bowl.
-5. Heat up a wok with a drizzle of oil. Once hot, throw in aromatics (ginger, garlic, chilli peppers). Fry until they start to get some color.
+5. Heat up a wok with a drizzle of oil. Once hot, throw in aromatics (ginger, garlic, chili peppers). Fry until they start to get some color.
 6. Add in green onions and carrots. Saute until cooked but still toothsome.
 7. Move vegetables onto a plate/different pan.
 8. Add oil to wok, once hot, add in the rice and fry until some grains start jumping.
