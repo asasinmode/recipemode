@@ -1,11 +1,5 @@
 # banana bread
 
-::: warning
-Not sure about the amount of walnuts, I usually eyeball it.
-
-Will update the recipe once I remake it.
-:::
-
 ## total ingredients
 
 - 84g butter
@@ -16,7 +10,7 @@ Will update the recipe once I remake it.
 - 2 tsp baking soda
 - 1 tsp salt
 - 6 bananas
-- ½ cup of walnuts
+- ½ (~80g) cup of walnuts
 
 ## ingredients by use case & order
 
@@ -30,7 +24,7 @@ Will update the recipe once I remake it.
 - 1 tsp salt
 ---
 - 6 bananas (mashed)
-- ½ cup of walnuts (chopped)
+- ½ (~80g) cup of walnuts (chopped)
 
 ### 175°C 55 min
 
