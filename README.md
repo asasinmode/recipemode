@@ -2,7 +2,7 @@
 
 [Vitepress](https://vitepress.dev/) website with my cooking recipes.
 
-Deployed at [address]()
+Deployed at [address](https://asasinmode.github.io/recipemode/)
 
 # develop
 
