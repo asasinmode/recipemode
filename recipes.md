@@ -28,6 +28,10 @@ Example for a cake recipe that requires you to prepare dry and wet ingredients i
 
 Instructions on how to prepare the dish. These are made for a future me that (hopefully) somewhat remembers what has to be done. If you somehow stumbled onto this page and have a question, DM me on twitter or discord.
 
+## nutrition
+
+Nutrition values of the recipe (for the ingredients I use). Spices not included. Most recipes at the moment won't have this section, I'll be adding it if I feel like it when I remake them.
+
 ## sources
 
 Links to recipes/youtube videos I originally got the recipes from. Some recipes lost their source to time. Most recipes are unmodified versions of their source.
