@@ -31,6 +31,18 @@ function sumIngredients(ingredients: [IIngredient, number][]): IIngredient {
 	)
 }
 
+function createRecipe(ingredients: [IIngredient, number][], salt = 0) {
+	const totalWeight = ingredients.reduce((sum, [_, weight]) => sum + weight, 0)
+	const total = sumIngredients(ingredients)
+	total.salt += salt
+
+	const per100g = Object.fromEntries(
+		Object.entries(total).map(([key, value]) => [key, value / totalWeight])
+	) as IIngredient
+
+	return { total, per100g }
+}
+
 const flour = createIngredient(348, 1.7, 70, 3.7, 11)
 const butter = createIngredient(744, 82, 0.7, 0.7, 0.2)
 const brownSugar = createIngredient(398, 0, 99.4, 0, 0)
@@ -40,7 +52,7 @@ const oats = createIngredient(363, 5.7, 60, 10, 13, 0.02)
 const raisins = createIngredient(289, 0.4, 65, 8.7, 2)
 const cranberries = createIngredient(340, 0.4, 78.4, 4.5, 0.8)
 
-const oatmealRaisinCookies = sumIngredients([
+const oatmealRaisinCookies = createRecipe([
 	[flour, 2.5],
 	[butter, 2.1],
 	[brownSugar, 2.3],
@@ -49,6 +61,6 @@ const oatmealRaisinCookies = sumIngredients([
 	[oats, 3],
 	[cranberries, 1.5],
 	[raisins, 1.5]
-])
+], 3)
 
 console.log(oatmealRaisinCookies)

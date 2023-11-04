@@ -45,14 +45,14 @@
 
 Divide by the number of cookies made.
 
-|               |       value |
-|---------------|------------:|
-| calories      |      5683.9 |
-| fat           |     206.75g |
-| carbohydrates |     833.83g |
-| fiber         |      60.52g |
-| protein       |      86.84g |
-| salt          |       3.06g |
+|               |       total | per 100g |
+|---------------|------------:|---------:|
+| kcal          | 5683.9 kcal | 392 kcal |
+| fat           |     206.75g |   14.26g |
+| carbohydrates |     833.83g |   56.51g |
+| fiber         |      60.52g |    4.17g |
+| protein       |      86.84g |    5.99g |
+| salt          |       3.06g |     0.2g |
 
 ## sources
 
