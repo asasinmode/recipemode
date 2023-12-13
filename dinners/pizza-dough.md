@@ -5,14 +5,14 @@ Can be used for [calzones](calzones), pizza (with [tomato sauce](tomato-sauce)),
 ## total ingredients
 
 - 600g flour
-- 450g water
+- 375g water
 - 10g salt
 - 8g dry yeast
 - 12g olive oil
 
 ## ingredients by use case & order
 
-- 450g water (warm to touch)
+- 375g water (warm to touch)
 - 8g dry yeast
 ---
 - 600g flour
@@ -34,4 +34,4 @@ Can be used for [calzones](calzones), pizza (with [tomato sauce](tomato-sauce)),
 
 ## sources
 
-A 75% hydration dough with a drizzle of olive oil and yeast.
+A 62.5% hydration dough with a drizzle of olive oil and yeast.
