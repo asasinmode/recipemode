@@ -2,17 +2,17 @@
 
 I usually use it as a [macarons](base) filling that surrounds [chocolate ganache](chocolate-ganache).
 
-Default amount of ingredients should be enough for macarons made with 3 egg whites.
+Default amount of ingredients should be enough for macarons made with 3 egg whites if used only for the outer filling ring.
 
 ## total ingredients
 
 - 100g white chocolate
-- 45ml 30% cream
+- 55ml 30% cream
 
 ## ingredients by use case & order
 
 - 100g white chocolate
-- 45ml 30% cream
+- 55ml 30% cream
 
 ## how to
 

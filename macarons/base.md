@@ -36,7 +36,7 @@ To use up the yolks check out [lemon tart](/cakes/lemon-tart) or [creme brulee](
 - {{ Math.round(parsedWhitesWeight * 1.2) }}g almond flour
 - {{ Math.round(parsedWhitesWeight * 1.6) }}g powdered sugar
 
-### 145°C 12 min + flip and 5 min more if using silicone mat
+### 145°C 13 min + flip and 5 min more if using silicone mat
 
 ## how to
 
@@ -49,7 +49,7 @@ To use up the yolks check out [lemon tart](/cakes/lemon-tart) or [creme brulee](
 7. Fold until homogenous, then keep folding until a figure eight drizzle on top of the batter disappears in 25 seconds consistency is reached.
 8. Transfer into a piping bag and pipe out the cookies.
 9. Leave the cookies to dry out for at least an hour until a skin forms on top and you can touch it without leaving a mark.
-10. Bake for 12 minutes at 145°C. If you are using a silicone mat, after 12 minutes flip it around and bake for 5 more minutes. Make sure it's at most at the middle rack of your oven. After 17 minutes have passed, Take it out of the oven but leave it on the hot baking sheet until it cools down to make sure the bottom is cooked through.
+10. Bake for 13 minutes at 145°C. If you are using a silicone mat, after 12 minutes flip it around and bake for 5 more minutes. Make sure it's at most at the middle rack of your oven. After 17 minutes have passed, Take it out of the oven but leave it on the hot baking sheet until it cools down to make sure the bottom is cooked through.
 
 ## sources
 
