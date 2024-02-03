@@ -39,7 +39,7 @@
 1. Add dry ingredients (flour, cinnamon, salt, baking soda, baking powder) into a mixing bowl. Whisk.
 2. In a separate bowl, cream butter, honey and brown sugar. Whisk in eggs and vanilla.
 3. Mix in oats and dried fruits.
-4. Bake for 12 minutes at 175°C. 
+4. Bake for 12 minutes at 175°C.
 
 ## nutrition
 

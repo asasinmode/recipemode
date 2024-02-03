@@ -1,28 +1,28 @@
 {
-  "name": "recipemode",
-  "type": "module",
-  "version": "1.0.0",
-  "private": "true",
-  "packageManager": "pnpm@8.15.1",
-  "author": "asasinmode",
-  "license": "MIT",
-  "scripts": {
-    "dev": "vitepress dev",
-    "build": "vitepress build",
-    "preview": "vitepress preview",
-    "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
-  },
-  "dependencies": {
-    "@unocss/reset": "^0.58.4",
-    "typescript": "^5.3.3",
-    "unocss": "^0.58.4",
-    "vitepress": "1.0.0-rc.41",
-    "vue": "^3.4.15"
-  },
-  "devDependencies": {
-    "@antfu/eslint-config": "^2.6.3",
-    "@types/node": "^20.11.16",
-    "eslint": "^8.56.0"
-  }
+	"name": "recipemode",
+	"type": "module",
+	"version": "1.0.0",
+	"private": "true",
+	"packageManager": "pnpm@8.15.1",
+	"author": "asasinmode",
+	"license": "MIT",
+	"scripts": {
+		"dev": "vitepress dev",
+		"build": "vitepress build",
+		"preview": "vitepress preview",
+		"lint": "eslint .",
+		"lint:fix": "eslint . --fix"
+	},
+	"dependencies": {
+		"@unocss/reset": "^0.58.4",
+		"typescript": "^5.3.3",
+		"unocss": "^0.58.4",
+		"vitepress": "1.0.0-rc.41",
+		"vue": "^3.4.15"
+	},
+	"devDependencies": {
+		"@antfu/eslint-config": "^2.6.3",
+		"@types/node": "^20.11.16",
+		"eslint": "^8.56.0"
+	}
 }

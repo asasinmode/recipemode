@@ -10,7 +10,7 @@ hero:
     light: /cupcake.svg
     dark: /cupcake_dark.svg
     alt: asasinmode profile icon
-    
+
   actions:
     - theme: brand
       text: macarons
