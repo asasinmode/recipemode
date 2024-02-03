@@ -1,21 +1,21 @@
 # pizza dough
 
-Can be used for [calzones](calzones), pizza (with [tomato sauce](tomato-sauce)), or on its own for a foccacia.
+Can be used for [calzones](calzones) (default amount makes ~6), pizza (with [tomato sauce](tomato-sauce), default amount makes 2), or on its own for a foccacia.
 
 ## total ingredients
 
-- 600g flour
-- 375g water
+- 650g flour
+- 405g water
 - 10g salt
 - 8g dry yeast
 - 12g olive oil
 
 ## ingredients by use case & order
 
-- 375g water (warm to touch)
+- 405g water (warm to touch)
 - 8g dry yeast
 ---
-- 600g flour
+- 650g flour
 - 10g salt
 ---
 - 12g olive oil
