@@ -21,7 +21,7 @@
 - 1 tsp cinnamon
 - salt (~3g)
 - 1 tsp baking soda
-- 1/4 tsp baking powder
+- ¼ tsp baking powder
 ---
 - 210g butter (room temp)
 - 230g brown sugar
