@@ -73,6 +73,7 @@ export default defineConfig({
 				collapsed: true,
 				base: '/desserts/',
 				items: [
+					{ text: 'baklava', link: 'baklava' },
 					{ text: 'creme brulee', link: 'creme-brulee' },
 					{ text: 'lemon/lime mousse', link: 'lemon-lime-mousse' },
 					{ text: 'panna cotta', link: 'panna-cotta' },
