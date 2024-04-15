@@ -26,7 +26,7 @@ hero:
       link: /cakes/banana-bread
     - theme: alt
       text: desserts
-      link: /desserts/creme-brulee
+      link: /desserts/baklava
 
 features:
   - title: one-stop
