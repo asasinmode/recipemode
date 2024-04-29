@@ -8,9 +8,9 @@ export default defineConfig({
 	lang: 'en-US',
 	description: 'my cooking recipes',
 	head: [
-		['link', { rel: 'icon', href: '/favicon.ico' }],
-		['link', { rel: 'icon', href: '/favicon_dark.ico', media: '(prefers-color-scheme: dark)' }],
-		['link', { rel: 'mask-icon', href: '/cupcake.svg', color: '#000000' }],
+		['link', { rel: 'icon', href: '/recipemode/favicon.ico' }],
+		['link', { rel: 'icon', href: '/recipemode/favicon_dark.ico', media: '(prefers-color-scheme: dark)' }],
+		['link', { rel: 'mask-icon', href: '/recipemode/cupcake.svg', color: '#000000' }],
 	],
 	base: '/recipemode/',
 
