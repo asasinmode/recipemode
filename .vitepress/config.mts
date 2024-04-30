@@ -77,6 +77,7 @@ export default defineConfig({
 					{ text: 'creme brulee', link: 'creme-brulee' },
 					{ text: 'lemon/lime mousse', link: 'lemon-lime-mousse' },
 					{ text: 'panna cotta', link: 'panna-cotta' },
+					{ text: 'rogale świętomarcińskie', link: 'rogale-swietomarcinskie' },
 				],
 			},
 			{
