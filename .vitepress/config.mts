@@ -40,6 +40,7 @@ export default defineConfig({
 					{ text: 'orange chicken', link: 'orange-chicken' },
 					{ text: 'pizza dough', link: 'pizza-dough' },
 					{ text: 'tomato sauce', link: 'tomato-sauce' },
+					{ text: 'yakisoba noodles', link: 'yakisoba-noodles' },
 				],
 			},
 			{
