@@ -31,14 +31,14 @@ I make it whenever I have leftover yolks from [macarons](/macarons/base).
 - vanilla
 - salt
 
-### 150°C 25 min water bath
+### 120°C 35 min water bath
 
 ## how to
 
 1. Mix the sugar and yolks until the sugar dissolves.
 2. Add in a sprinkle of salt, the cream and vanilla.
 3. Mix until homogenous. Pour out into ramekins.
-4. Bake in a water bath for 25 minutes at 150°C. May vary depending on how much custard there is in the ramekins.
+4. For 35 minutes at 120°C. May vary depending on how much custard there is in the ramekins and your oven
 
 ## sources
 
