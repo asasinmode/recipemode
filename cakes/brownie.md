@@ -17,15 +17,21 @@
 - 240g butter (melted)
 - 280g sugar
 - ~30g honey
+
 ---
+
 - 3 eggs
 - vanilla
 - salt
 - 150g chocolate (melted)
+
 ---
+
 - 180g flour
 - 40g cocoa
+
 ---
+
 - 150g chocolate (chunks)
 
 ### 180°C 22 min

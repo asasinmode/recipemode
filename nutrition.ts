@@ -1,4 +1,11 @@
-type IIngredient = { kcal: number; fat: number; carbohydrates: number; fiber: number; protein: number; salt: number; };
+interface IIngredient {
+	kcal: number;
+	fat: number;
+	carbohydrates: number;
+	fiber: number;
+	protein: number;
+	salt: number;
+}
 
 function createIngredient(
 	kcal: number,
@@ -6,7 +13,7 @@ function createIngredient(
 	carbohydrates: number,
 	fiber: number,
 	protein: number,
-	salt = 0
+	salt = 0,
 ): IIngredient {
 	return { kcal, fat, carbohydrates, fiber, protein, salt };
 }
@@ -35,7 +42,7 @@ function createRecipe(ingredients: [IIngredient, number][], salt = 0) {
 	total.salt += salt;
 
 	const per100g = Object.fromEntries(
-		Object.entries(total).map(([key, value]) => [key, value / totalWeight])
+		Object.entries(total).map(([key, value]) => [key, value / totalWeight]),
 	) as IIngredient;
 
 	return { total, per100g };

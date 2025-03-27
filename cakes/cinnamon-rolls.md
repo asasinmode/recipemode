@@ -17,11 +17,15 @@
 - 100g butter (melted, preferably while heating milk)
 - 100g sugar
 - 2 ¼ tsp dry yeast
+
 ---
+
 - 625g flour
 - salt
 - 1 tsp baking powder
+
 ---
+
 - 165g brown sugar
 - 160g butter (room temp)
 - cinnamon

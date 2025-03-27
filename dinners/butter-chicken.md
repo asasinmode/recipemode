@@ -36,23 +36,31 @@
 - ½ tbsp chili powder
 - ½ tbsp ground cumin
 - juice of 1 lemon
+
 ---
+
 - splash of oil
 - 1 medium onion
 - knob of ginger
 - garlic ~same volume as ginger
+
 ---
+
 - 1 tbsp tomato powder/tomato paste
 - 1 tbsp fenugreek leaves
 - 1 tbsp turmeric
 - 1 tbsp ground coriander
 - 1 tbsp garam masala
 - ½ tbsp chili powder
+
 ---
+
 - 400g canned crushed tomatoes
 - pepper
 - salt
+
 ---
+
 - 250ml 30% cream
 - 50g butter
 

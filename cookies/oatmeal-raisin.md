@@ -22,13 +22,17 @@
 - salt (~3g)
 - 1 tsp baking soda
 - ¼ tsp baking powder
+
 ---
+
 - 210g butter (room temp)
 - 230g brown sugar
 - 40g honey
 - 2 eggs
 - vanilla
+
 ---
+
 - 300g oats
 - 300g dried fruits
 
@@ -46,7 +50,7 @@
 Divide by the number of cookies made.
 
 |               |       total | per 100g |
-|---------------|------------:|---------:|
+| ------------- | ----------: | -------: |
 | kcal          | 5683.9 kcal | 392 kcal |
 | fat           |     206.75g |   14.26g |
 | carbohydrates |     833.83g |   56.51g |

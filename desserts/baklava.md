@@ -24,7 +24,9 @@
 - ½ tsp ground ginger
 - ½ tsp ground allspice
 - ¼ tsp ground nutmeg
+
 ---
+
 - 100g water
 - 100g sugar
 - 300g honey
@@ -32,9 +34,13 @@
 - juice of 1 orange
 - 1 cinnamon stick
 - pinch of salt
+
 ---
+
 - 600g filo dough (2 store bought packages for me, enough for at least 24 layers total)
+
 ---
+
 - 300g butter (melted)
 - pinch of salt
 

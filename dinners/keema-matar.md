@@ -25,20 +25,28 @@
 - 4 chili peppers
 - knob of ginger
 - garlic ~same volume as ginger
+
 ---
+
 - 2 tsp cumin
 - 2 tsp mustard seeds
 - 2 tsp black peppercorns / 1tsp ground black pepper
 - half a cinnamon stick
+
 ---
+
 - 800g canned chopped tomatoes
 - 4 cloves
 - 2 bay leaves
 - 1 tsp ground chili
 - 2 tsp turmeric
+
 ---
+
 - 800g ground beef
+
 ---
+
 - juice from half a lemon
 - 400g frozen green peas
 

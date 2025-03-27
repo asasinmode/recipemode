@@ -22,13 +22,17 @@
 - 5g salt
 - 8g corn starch
 - 6g baking soda
+
 ---
+
 - 280g butter (melted)
 - 285g brown sugar
 - 115g sugar
 - 2 eggs
 - 3 egg yolks
+
 ---
+
 - 165g walnuts (chopped)
 - 400g chocolate
 

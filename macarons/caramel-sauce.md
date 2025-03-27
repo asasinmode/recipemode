@@ -28,9 +28,13 @@ Default amount of ingredients should be enough for macarons made with 3 egg whit
 
 - {{ parsedSugarWeight }}g sugar
 - splash of water
+
 ---
+
 - {{ Math.round(parsedSugarWeight * 0.6) }}ml 30% cream
+
 ---
+
 - {{ Math.round(parsedSugarWeight * 0.187) }}g butter
 
 ## how to

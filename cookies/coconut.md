@@ -17,14 +17,20 @@
 - 225g butter (room temp)
 - 150g brown sugar
 - 150g sugar
+
 ---
+
 - 2 eggs
 - vanilla
+
 ---
+
 - 350g flour
 - 1 tsp baking soda
 - salt
+
 ---
+
 - 200g shredded coconut (toasted)
 
 ### 180°C 11 min

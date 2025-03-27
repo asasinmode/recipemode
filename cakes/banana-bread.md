@@ -18,11 +18,15 @@
 - 115g mascarpone
 - 300g brown sugar
 - 3 eggs
+
 ---
+
 - 270g flour
 - 2 tsp baking soda
 - 1 tsp salt
+
 ---
+
 - 6 bananas (mashed)
 - ½ (~80g) cup of walnuts (chopped)
 

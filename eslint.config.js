@@ -1,32 +1,16 @@
+// @ts-check
 import antfu from '@antfu/eslint-config';
+import unocss from '@unocss/eslint-config/flat';
 
-export default await antfu({
+export default antfu({
 	stylistic: {
 		semi: true,
 		indent: 'tab',
 	},
 	rules: {
-		'curly': ['error', 'all'],
-		'ts/consistent-type-definitions': ['error', 'type'],
+		'vue/return-in-computed-property': 'off',
 		'style/brace-style': ['error', '1tbs'],
-		'style/member-delimiter-style': ['error', {
-			multiline: {
-				delimiter: 'semi',
-				requireLast: true,
-			},
-			singleline: {
-				delimiter: 'semi',
-				requireLast: true,
-			},
-		}],
-		'style/comma-dangle': ['error', {
-			arrays: 'always-multiline',
-			objects: 'always-multiline',
-			imports: 'always-multiline',
-			exports: 'always-multiline',
-			functions: 'never',
-		}],
+		'curly': ['error', 'all'],
 	},
-	vue: true,
-	typescript: true,
-});
+	formatters: true,
+}, unocss);

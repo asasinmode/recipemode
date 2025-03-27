@@ -24,7 +24,9 @@ This is just for the sauce for the noodles. I add some vegetables and meat prepa
 - ~2tbsp of corn starch for slurry
 - 1 medium/large onion
 - small knob of ginger
+
 ---
+
 - 100ml cup soy sauce
 - 100ml worcestershire sauce
 - 50ml oyster sauce
@@ -32,9 +34,13 @@ This is just for the sauce for the noodles. I add some vegetables and meat prepa
 - 25ml tbsp mirin
 - 15ml fish sauce
 - 25 tbsp sugar
+
 ---
+
 - ~2tbsp of corn starch for slurry
+
 ---
+
 - 200g rice noodles
 
 ## how to

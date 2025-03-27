@@ -24,25 +24,35 @@
 
 - splash of oil
 - 1200g ground beef
+
 ---
+
 - 1 large onion
 - 6 cloves of garlic
 - 3 chili peppers
 - salt
+
 ---
+
 - 1 tbsp cumin
 - chili powder to taste
 - 1 tbsp oregano
 - 1 tbsp garlic powder
+
 ---
+
 - 2 bell peppers
 - 2 bay leaves
+
 ---
+
 - 800g canned crushed tomatoes
 - 1 stock cube
 - 1 tbsp fish sauce
 - 1 tbsp flour
+
 ---
+
 - 2 cans of beans
 
 ## how to

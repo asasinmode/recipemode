@@ -108,7 +108,7 @@ export default defineConfig({
 
 	vite: {
 		plugins: [
-			Unocss(fileURLToPath(new URL('./uno.config.ts', import.meta.url))),
+			Unocss(fileURLToPath(new URL('../uno.config.ts', import.meta.url))),
 		],
 	},
 

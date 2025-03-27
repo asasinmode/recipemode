@@ -19,19 +19,29 @@ You are also going to need a [base](biscuit-base).
 ## ingredients by use case & order
 
 - [biscuit base](biscuit-base) made in advance
+
 ---
+
 - 187g sugar
 - zest of 2 lemons
+
 ---
+
 - 5 egg yolks
 - 1 large egg
 - salt
 - vanilla
+
 ---
+
 - 210g lemon juice (5/6 large lemons)
+
 ---
+
 - 141g butter
+
 ---
+
 - enough jam to cover your base in a thin layer
 - 150g plain yogurt
 

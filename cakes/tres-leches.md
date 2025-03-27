@@ -28,13 +28,19 @@ Will update the recipe once I remake it.
 - vanilla
 - 138g flour
 - 1 tsp baking powder
+
 ---
+
 - 5 whites
 - 100g sugar
 - salt
+
 ---
+
 - 530g sweetened condensed milk
+
 ---
+
 - 200g dulce de leche
 - 300ml (?) 30% cream
 - 2 tbsp powdered sugar

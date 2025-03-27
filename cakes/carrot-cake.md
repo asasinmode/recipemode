@@ -20,12 +20,16 @@
 - 1 ½ tsp baking soda
 - 1 tsp cinnamon
 - salt
+
 ---
+
 - 6 eggs
 - 300g sugar
 - 300ml neutral oil
 - vanilla
+
 ---
+
 - 8 medium carrots
 
 ### 175°C 50 min

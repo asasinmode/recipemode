@@ -12,7 +12,9 @@ Can be served either on its own as a mousse or with [biscuit base](/cakes/biscui
 ## ingredients by use case & order
 
 - 4 limes / 2 lemons, juice and zest
+
 ---
+
 - 500ml 30% cream (very cold)
 - 530g sweetened condensed milk (also cold)
 - salt

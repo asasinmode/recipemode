@@ -21,21 +21,31 @@
 - 2 tbsp dark soy sauce
 - 2 tbsp sesame oil
 - 1 tbsp fish sauce
+
 ---
+
 - eggs
 - spices of choice
+
 ---
+
 - ginger
 - garlic
 - chili peppers
+
 ---
+
 - green onions
 - carrots
+
 ---
+
 - rice
 - eggs
 - sauce
+
 ---
+
 - peas
 
 ## how to

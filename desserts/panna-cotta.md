@@ -18,9 +18,13 @@
 - salt
 - vanilla
 - 83g sugar
+
 ---
+
 - 500ml 30% cream
+
 ---
+
 - ~450g of a fruit of choice (strawberries, raspberries, cherries), can be frozen
 - 2 tbsp sugar
 

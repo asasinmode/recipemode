@@ -7,7 +7,7 @@ Wikipedia translates it to [St. Martin's croissant](https://en.wikipedia.org/wik
 - 225g white poppy seeds
 - 297g (225 + 72) sugar
 - 140g [small round sponge cakes](https://www.google.com/search?q=ciastka+biszkopty), no clue what these would be in english
-- 314g (42 + 72 + 200) butter 
+- 314g (42 + 72 + 200) butter
 - 5 eggs
 - 42g raisins
 - 45g almonds
@@ -26,31 +26,47 @@ Wikipedia translates it to [St. Martin's croissant](https://en.wikipedia.org/wik
 ## ingredients by use case & order
 
 - 225g white poppy seeds
+
 ---
+
 - 42g raisins
 - 45g almonds
 - 30g walnuts
 - 25g candied orange peel
+
 ---
+
 - 225g sugar
 - 42g butter
 - salt
+
 ---
+
 - ½ tsp almond extract
+
 ---
+
 - 140g small round sponge cakes
 - 3 eggs
+
 ---
+
 - 240ml milk
 - 72g butter
 - 8g dry yeast
 - salt
+
 ---
+
 - 72g sugar
 - 2 eggs
+
 ---
+
 - 600g flour
+
 ---
+
 - 100g powdered sugar
 - 3 tbsp of water
 - 60g almond flakes

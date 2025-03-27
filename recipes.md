@@ -15,10 +15,14 @@ Example for a cake recipe that requires you to prepare dry and wet ingredients i
 - dry ingredient 1
 - dry ingredient 2
 - 250g of dry ingredient 3
+
 ---
+
 - wet ingredient 1
 - wet ingredient 2
+
 ---
+
 - frosting ingredient 1
 - 150g of dry ingredient 3
 

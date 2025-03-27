@@ -21,11 +21,11 @@ Universal crushed biscuit base for various cakes/pies.
 ## how to
 
 1. Butter a mould of choice. The default amount of ingredients should cover the bottom of a round cake pan with a diameter of 24cm (~450cm<sup>2</sup>).
-1. Crush the graham crackers. I recommend using mortar and pestle. Put into a bowl.
-2. Mix in the sugar and, if you want to, cinnamon to taste.
-3. Melt butter.
-4. Transfer the mixture to the buttered mould. Spread evenly, I recommend using a bottom of a glass.
-5. Bake for 8 minutes at 190°C.
+2. Crush the graham crackers. I recommend using mortar and pestle. Put into a bowl.
+3. Mix in the sugar and, if you want to, cinnamon to taste.
+4. Melt butter.
+5. Transfer the mixture to the buttered mould. Spread evenly, I recommend using a bottom of a glass.
+6. Bake for 8 minutes at 190°C.
 
 ## sources
 

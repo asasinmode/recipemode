@@ -32,7 +32,9 @@ To use up the yolks check out [lemon tart](/cakes/lemon-tart) or [creme brulee](
 - {{ parsedWhitesWeight }}g egg whites
 - {{ Math.round(parsedWhitesWeight * 0.5) }}g sugar
 - salt
+
 ---
+
 - {{ Math.round(parsedWhitesWeight * 1.2) }}g almond flour
 - {{ Math.round(parsedWhitesWeight * 1.6) }}g powdered sugar
 

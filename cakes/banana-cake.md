@@ -20,15 +20,23 @@
 - 3 tsp baking powder
 - 1 ½ tsp cinnamon
 - salt
+
 ---
+
 - 4 eggs
 - 225g sugar
 - vanilla
+
 ---
+
 - 150ml neutral oil
+
 ---
+
 - 6 ripe bananas
+
 ---
+
 - 320g caramel white chocolate
 - 180g 30% cream
 

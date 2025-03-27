@@ -20,11 +20,15 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 - 2 tbsp corn starch
 - 250g sugar
 - vanilla
+
 ---
+
 - 170g cream cheese (room temp)
 - 170g white chocolate (melted)
 - vanilla
+
 ---
+
 - 320ml 30% cream (very cold)
 - 3 tbsp powdered sugar
 
