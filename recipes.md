@@ -34,4 +34,4 @@ Nutrition values of the recipe (for the ingredients I use). Spices not included.
 
 ## sources
 
-Links to recipes/youtube videos I originally got the recipes from. Some recipes lost their source to time. Most recipes are unmodified versions of their source.
+Links to recipes/youtube videos I originally got the recipes from. Some recipes lost their source to time. Most recipes are slightly modified versions of their source.
