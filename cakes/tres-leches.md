@@ -50,7 +50,7 @@ Will update the recipe once I remake it.
 ## how to
 
 1. Into 2 mixing bowls separate the whites and the yolks.
-2. Into the yolks bowl add 100g of sugar and cream.
+2. Into the yolks bowl add 100g of sugar and whisk until light and creamed and the sugar is mostly dissolved.
 3. Whisk in milk and vanilla.
 4. Sift in flour and baking powder, mix until just combined.
 5. To the whites bowl, add the rest of the sugar and salt. Whisk until stiff peaks.
