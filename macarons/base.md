@@ -53,6 +53,16 @@ To use up the yolks check out [lemon tart](/cakes/lemon-tart) or [creme brulee](
 9. Leave the cookies to dry out for at least an hour until a skin forms on top and you can touch it without leaving a mark.
 10. Bake for 14 minutes at 150°C. If you are using a silicone mat, after 13 minutes turn the baking sheet around and bake for 5 more minutes. Make sure it's at most at the middle rack of your oven. After 18 minutes have passed, Take it out of the oven but leave it on the hot baking sheet until it cools down to make sure the bottom is cooked through.
 
+::: tip
+Baking requires a bit of experimentation and heavily depends on the oven.
+
+If the tops are getting too dark, put the baking sheet on a lower rack. If the bottom is stuck to the paper after the cookies have cooled, they need to be either
+
+1. baked longer, which can be achieved by lowering the temperature (I wouldn't go below 140°C)
+2. baking with the top heating element turned off (maybe just for a few minutes towards the end)
+3. lowering the rack even more if possible to let them bake longer while not burning the tops
+:::
+
 ## sources
 
 My own recipe inspired by [this paper](https://www.cookingscienceguy.com/pages/wp-content/uploads/2012/07/Food-Science-Macaron3.pdf).
