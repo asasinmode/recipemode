@@ -41,13 +41,12 @@ Preferably with [biscuit base](biscuit-base) made in advance.
 3. Pour into a buttered baking dish of choice, ideally with [a base](biscuit-base). With default amounts of ingredients I use a round baking dish with a diameter of 24cm that's 7 cm high (~3150cm<sup>3</sup>).
 4. Bake for around 30 minutes at 175°C. Should still have a bit of jiggle in the center.
 5. Leave for ~15 minutes in the oven with the door slightly opened. Afterwards take out and let cool completely (preferable to fridge temperature).
-6. Take the finished bottom layer out of the oven and let cool completely (preferably to fridge temperature).
-7. Whip the remaining cream cheese with vanilla until fluffy.
-8. Melt white chocolate and whisk it into the cream cheese.
-9. In a separate bowl whip the whipping cream with powdered sugar until stiff.
-10. Fold in the whipped cream into cream cheese.
-11. Pour the white chocolate layer on top of the first cheese cake layer.
-12. Put into the fridge until set (~2 hours).
+6. Whip the remaining cream cheese with vanilla until fluffy.
+7. Melt white chocolate and whisk it into the cream cheese.
+8. In a separate bowl whip the whipping cream with powdered sugar until stiff.
+9. Fold in the whipped cream into cream cheese.
+10. Pour the white chocolate layer on top of the first cheese cake layer.
+11. Put into the fridge until set (~2 hours).
 
 ## sources
 
